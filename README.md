@@ -40,24 +40,23 @@
 
 
 # CERTIFICATIONS
+![4](https://user-images.githubusercontent.com/96830808/169004234-8c970d3b-2923-45cc-8314-84366ddc0b8a.PNG)
 
-[Coursera PYTHON FOR EVERYBODY.pdf](https://github.com/Trust-Ayeni/Trust-Ayeni/files/8714773/Coursera.PYTHON.FOR.EVERYBODY.pdf)
+![5](https://user-images.githubusercontent.com/96830808/169004283-d0c9f32c-8dec-47cd-b92c-94582dcc0b1d.PNG)
 
-[Data science.pdf](https://github.com/Trust-Ayeni/Trust-Ayeni/files/8714776/Data.science.pdf)
+![6](https://user-images.githubusercontent.com/96830808/169004351-3fc1114c-289b-409e-aacc-9ae008052679.PNG)
 
-[IBM Applied AI.pdf](https://github.com/Trust-Ayeni/Trust-Ayeni/files/8714777/IBM.Applied.AI.pdf)
-
-[MicrosoftCertificate.pdf](https://github.com/Trust-Ayeni/Trust-Ayeni/files/8714778/MicrosoftCertificate.pdf)
+![7](https://user-images.githubusercontent.com/96830808/169004402-1ac134c5-02ab-4e2c-90d0-b65ed52a8b4c.PNG)
 
 ![MTNF undergraduate scholarship](https://user-images.githubusercontent.com/96830808/169001380-030d80b4-453e-41a3-a34b-b99dea2051ea.jpg)
 
-[udacity.pdf](https://github.com/Trust-Ayeni/Trust-Ayeni/files/8714780/udacity.pdf)
+![8](https://user-images.githubusercontent.com/96830808/169004507-7238d1c1-2139-4904-8667-b7238f8f3797.PNG)
 
-[Coursera 36WF2SMH4TBC.pdf](https://github.com/Trust-Ayeni/Trust-Ayeni/files/8714811/Coursera.36WF2SMH4TBC.pdf)
+![2](https://user-images.githubusercontent.com/96830808/169004565-f6619ce5-d94c-4cc4-9d7f-942e400bb41f.PNG)
 
-[Coursera QW64H49QA47J.pdf](https://github.com/Trust-Ayeni/Trust-Ayeni/files/8714817/Coursera.QW64H49QA47J.pdf)
+![3](https://user-images.githubusercontent.com/96830808/169004576-0d7ef1e8-9a4e-4e3f-bdac-f9e10b7427d0.PNG)
 
-[Coursera 2LXRESX8EDSK.pdf](https://github.com/Trust-Ayeni/Trust-Ayeni/files/8714819/Coursera.2LXRESX8EDSK.pdf)
+![1](https://user-images.githubusercontent.com/96830808/169004581-5685e1b6-e240-485d-95f1-abad44e0a701.PNG)
 
 
 
