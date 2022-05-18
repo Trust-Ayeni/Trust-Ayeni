@@ -39,7 +39,25 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trust-ayeni&" alt="trust-ayeni" /></p>
 
 
-<!---
-Ryzen-iq/Ryzen-iq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# CERTIFICATIONS
+
+[Coursera PYTHON FOR EVERYBODY.pdf](https://github.com/Trust-Ayeni/Trust-Ayeni/files/8714773/Coursera.PYTHON.FOR.EVERYBODY.pdf)
+
+[Data science.pdf](https://github.com/Trust-Ayeni/Trust-Ayeni/files/8714776/Data.science.pdf)
+
+[IBM Applied AI.pdf](https://github.com/Trust-Ayeni/Trust-Ayeni/files/8714777/IBM.Applied.AI.pdf)
+
+[MicrosoftCertificate.pdf](https://github.com/Trust-Ayeni/Trust-Ayeni/files/8714778/MicrosoftCertificate.pdf)
+
+![MTNF undergraduate scholarship](https://user-images.githubusercontent.com/96830808/169001380-030d80b4-453e-41a3-a34b-b99dea2051ea.jpg)
+
+[udacity.pdf](https://github.com/Trust-Ayeni/Trust-Ayeni/files/8714780/udacity.pdf)
+
+[Coursera 36WF2SMH4TBC.pdf](https://github.com/Trust-Ayeni/Trust-Ayeni/files/8714811/Coursera.36WF2SMH4TBC.pdf)
+
+[Coursera QW64H49QA47J.pdf](https://github.com/Trust-Ayeni/Trust-Ayeni/files/8714817/Coursera.QW64H49QA47J.pdf)
+
+[Coursera 2LXRESX8EDSK.pdf](https://github.com/Trust-Ayeni/Trust-Ayeni/files/8714819/Coursera.2LXRESX8EDSK.pdf)
+
+
+
