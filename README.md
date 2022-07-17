@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trust-ayeni" alt="trust-ayeni" /></a> </p>
 
-- 🔭 I’m currently working on [Udacity ALX-T Project](https://github.com/Trust-Ayeni/Udacity-ALX-T-NanoDegree)
+- 🔭 I’m currently working on [ ALX-T Virtual Assistant Milestones](https://github.com/Trust-Ayeni/Udacity-ALX-T-NanoDegree)
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
