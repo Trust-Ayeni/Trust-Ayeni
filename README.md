@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [ ALX-T Virtual Assistant Milestones](https://github.com/Trust-Ayeni/Udacity-ALX-T-NanoDegree)
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **Tensorflow**
 
-- 👯 I’m looking to collaborate on **Data Science projects and Bug Bounties**
+- 👯 I’m looking to collaborate on **Data Science projects**
 
-- 🤝 I’m looking for help with **Bug Bounties**
+- 🤝 I’m looking for help with **Deep learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Trust-Ayeni](https://github.com/Trust-Ayeni)
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://github.com/Trust-Ayeni/Ryzen-iq/blob/main/Ayeni.Trust-Resume.pdf](https://github.com/Trust-Ayeni/Ryzen-iq/blob/main/Ayeni.Trust-Resume.pdf)
 
-- ⚡ Fun fact **I love getting certified**
+- ⚡ Fun fact **I love learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
