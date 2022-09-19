@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Loan Approval Prediction](https://github.com/Trust-Ayeni/Finance-loan-Analysis)
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
