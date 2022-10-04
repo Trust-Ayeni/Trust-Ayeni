@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trust-ayeni" alt="trust-ayeni" /></a> </p>
 
-- 🔭 I’m currently working on [Loan Approval Prediction](https://github.com/Trust-Ayeni/Finance-loan-Analysis)
+- 🔭 I’m currently working on [Computer Vision]()
 
 - 🌱 I’m currently learning **Cybersecurity**
 
