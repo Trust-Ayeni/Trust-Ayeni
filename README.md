@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trust-ayeni" alt="trust-ayeni" /></a> </p>
 
-- 🔭 I’m currently working on [CyberSecurity]()
+- 🔭 I love [CyberSecurity]()
 
 - 🌱 I’m currently based in Nigeria
 
-- 👯 I’m looking to collaborate on **Data Science projects**
+- 👯 I’m looking forward to collaborating on **Cybersecurity projects**
 
 - 🤝 I’m looking for help with **Deep learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Trust-Ayeni](https://github.com/Trust-Ayeni)
 
 - 💬 Ask me about **Python, Linux(Debian) framework**
 
