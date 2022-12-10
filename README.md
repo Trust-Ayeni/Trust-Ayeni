@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **trust.ayeniolamilekan@gmail.com**
 
-- 📄 Know about my experiences [here](https://github.com/Trust-Ayeni/Ryzen-iq/blob/main/Ayeni.Trust-Resume.pdf)
+- 📄 Know about my experiences [here](https://github.com/Trust-Ayeni/Trust-Ayeni/blob/main/Trust-Ayeni-Resume.pdf)
 
 - ⚡ Fun fact **I love working on new projects**
 
