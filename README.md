@@ -17,13 +17,13 @@
 
 - 📫 How to reach me **trust.ayeniolamilekan@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Trust-Ayeni/Ryzen-iq/blob/main/Ayeni.Trust-Resume.pdf](https://github.com/Trust-Ayeni/Ryzen-iq/blob/main/Ayeni.Trust-Resume.pdf)
+- 📄 Know about my experiences [here](https://github.com/Trust-Ayeni/Ryzen-iq/blob/main/Ayeni.Trust-Resume.pdf)
 
 - ⚡ Fun fact **I love working on new projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/trustayeni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/trustayeni/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/trustayeni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/trustayeni/" height="30" width="40" /></a>
 <a href="https://kaggle.com/trustayeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="trustayeni" height="30" width="40" /></a>
 </p>
 
