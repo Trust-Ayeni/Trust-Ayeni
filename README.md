@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trust-ayeni" alt="trust-ayeni" /></a> </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🔭 I love [CyberSecurity]();🌱 I’m currently based in Nigeria)](https://git.io/typing-svg)
+
 - 🔭 I love [CyberSecurity]()
 
 - 🌱 I’m currently based in Nigeria
