@@ -1,27 +1,16 @@
 <h1 align="center">Hello 👋, I'm Trust(Ryzen)</h1>
-<h3 align="center">A passionate Python developer based in Nigeria</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+CyberSecurity;I’m+currently+based+in+Nigeria;I’m+looking+forward+to+collaborating+on+Cybersecurity+projects;I’m+looking+for+help+with+Deep+learning;Ask+me+about+Python,+Linux(Debian)+framework)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trust-ayeni&label=Profile%20views&color=0e75b6&style=flat" alt="trust-ayeni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trust-ayeni" alt="trust-ayeni" /></a> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🔭 I love [CyberSecurity]();🌱 I’m currently based in Nigeria)](https://git.io/typing-svg)
-
-- 🔭 I love [CyberSecurity]()
-
-- 🌱 I’m currently based in Nigeria
-
-- 👯 I’m looking forward to collaborating on **Cybersecurity projects**
-
-- 🤝 I’m looking for help with **Deep learning**
-
-- 💬 Ask me about **Python, Linux(Debian) framework**
 
 - 📫 How to reach me **trust.ayeniolamilekan@gmail.com**
 
 - 📄 Know about my experiences [here](https://github.com/Trust-Ayeni/Trust-Ayeni/blob/main/Trust-Ayeni-Resume.pdf)
 
-- ⚡ Fun fact **I love working on new projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
