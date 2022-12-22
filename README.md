@@ -27,30 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trust-ayeni&show_icons=true&locale=en" alt="trust-ayeni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trust-ayeni&" alt="trust-ayeni" /></p>
-
-
-# CERTIFICATIONS
-![4](https://user-images.githubusercontent.com/96830808/169004234-8c970d3b-2923-45cc-8314-84366ddc0b8a.PNG)
-
-![5](https://user-images.githubusercontent.com/96830808/169004283-d0c9f32c-8dec-47cd-b92c-94582dcc0b1d.PNG)
-
-![6](https://user-images.githubusercontent.com/96830808/169004351-3fc1114c-289b-409e-aacc-9ae008052679.PNG)
-
-![7](https://user-images.githubusercontent.com/96830808/169004402-1ac134c5-02ab-4e2c-90d0-b65ed52a8b4c.PNG)
-
-![MTNF undergraduate scholarship](https://user-images.githubusercontent.com/96830808/169001380-030d80b4-453e-41a3-a34b-b99dea2051ea.jpg)
-
-![8](https://user-images.githubusercontent.com/96830808/169004507-7238d1c1-2139-4904-8667-b7238f8f3797.PNG)
-
-![2](https://user-images.githubusercontent.com/96830808/169004565-f6619ce5-d94c-4cc4-9d7f-942e400bb41f.PNG)
-
-![3](https://user-images.githubusercontent.com/96830808/169004576-0d7ef1e8-9a4e-4e3f-bdac-f9e10b7427d0.PNG)
-
-![1](https://user-images.githubusercontent.com/96830808/169004581-5685e1b6-e240-485d-95f1-abad44e0a701.PNG)
-
-![alt-x](https://user-images.githubusercontent.com/96830808/174746341-bdcc676f-afd5-4cfc-9db5-d957c0802779.png)
-
-![image](https://user-images.githubusercontent.com/96830808/183142801-90baf0b1-75c8-435e-8c38-a7a36c6dc5bc.png)
-
-
-
