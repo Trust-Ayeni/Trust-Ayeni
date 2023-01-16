@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm Lekan(Ryzen)</h1>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=I+love+CyberSecurity;I’m+currently+based+in+Nigeria;I’m+looking+forward+to+collaborating+on+Cybersecurity+projects;Looking+for+help+with+Deep+learning;Ask+me+about+Python,+Linux(Debian)+framework)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trust-ayeni&label=Profile%20views&color=0e75b6&style=flat" alt="trust-ayeni" /> </p>
@@ -8,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trust-ayeni" alt="trust-ayeni" /></a> </p>
 
 
-- 📫 How to reach me **trust.ayeniolamilekan@gmail.com**
+- 📫 Mail [me](trust.ayeniolamilekan@gmail.com)
 
 - 📄 Know about my experiences [here](https://github.com/Trust-Ayeni/Trust-Ayeni/blob/main/Trust-Ayeni-Resume.pdf)
 
