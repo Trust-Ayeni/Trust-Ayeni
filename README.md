@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trust-ayeni" alt="trust-ayeni" /></a> </p>
 
 
-- 📫 Mail [me](trust.ayeniolamilekan@gmail.com)
+- 📫 Mail [me](trust.ayeniolamilekan@gmail.com) now!
 
 - 📄 Know about my experiences [here](https://github.com/Trust-Ayeni/Trust-Ayeni/blob/main/Trust-Ayeni-Resume.pdf)
 
