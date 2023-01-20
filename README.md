@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Lekan(Ryzen)</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=I+love+CyberSecurity;I’m+currently+based+in+Nigeria;I’m+looking+forward+to+collaborating+on+Cybersecurity+projects;Looking+for+help+with+Deep+learning;Ask+me+about+Python,+Linux(Debian)+framework)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=I+love+CyberSecurity;I’m+currently+based+in+Nigeria;I’m+looking+forward+to+collaborating+on+Cybersecurity+projects;Ask+me+about+Python,+Linux(Debian)+framework)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trust-ayeni&label=Profile%20views&color=0e75b6&style=flat" alt="trust-ayeni" /> </p>
 
@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trust-ayeni&show_icons=true&locale=en" alt="trust-ayeni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trust-ayeni&" alt="trust-ayeni" /></p>
+
