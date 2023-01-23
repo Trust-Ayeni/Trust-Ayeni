@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Lekan(Ryzen)</h1>
+<h1 align="center">Hey  👋, I'm Lekan(Ryzen)</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=I+love+CyberSecurity;I’m+currently+based+in+Nigeria;I’m+looking+forward+to+collaborating+on+Cybersecurity+projects;Ask+me+about+Python,+Linux(Debian)+framework)](https://git.io/typing-svg)
 
