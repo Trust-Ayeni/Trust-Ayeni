@@ -9,6 +9,8 @@
 
 - 📫 Mail [me](trust.ayeniolamilekan@gmail.com) now!
 
+ ![Scan to view my webpage that tells you more about myself](https://user-images.githubusercontent.com/96830808/215877523-da8d76cb-bb03-4c05-bbd1-70318636461a.png)
+
 - 📄 Know about my experiences [here](https://github.com/Trust-Ayeni/Trust-Ayeni/blob/main/Trust-Ayeni-Resume.pdf)
 
 
