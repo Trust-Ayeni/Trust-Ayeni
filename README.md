@@ -1,6 +1,6 @@
 <h1 align="center">Hey  👋, I'm Lekan(Ryzen)</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=I+love+CyberSecurity;I’m+currently+based+in+Nigeria;I’m+looking+forward+to+collaborating+on+Cybersecurity+projects;Ask+me+about+Python,+Linux(Debian)+framework)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=I+code+with+python;I+am+based+in+Nigeria;Love+collaborating+on+Cybersecurity+projects;Ask+me+about+Python,+Linux(Debian)+framework)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trust-ayeni&label=Profile%20views&color=0e75b6&style=flat" alt="trust-ayeni" /> </p>
 
