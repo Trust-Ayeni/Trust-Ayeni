@@ -1,4 +1,4 @@
-<h1 align="center">Hey  👋, I'm Segun(Darkstar)</h1>
+<h1 align="center">Hey  👋, I'm Darkstar</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=I+code+with+python;I+am+based+in+Nigeria;Love+collaborating+on+Cybersecurity+projects;Ask+me+about+Python,+Linux(Debian)+framework)](https://git.io/typing-svg)
 
