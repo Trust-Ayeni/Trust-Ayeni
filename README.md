@@ -22,7 +22,48 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.torproject.org/download/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/torproject/torproject-ar21.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="left"> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a> 
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.torproject.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/torproject/torproject-ar21.svg" alt="tor" width="40" height="40"/> 
+    </a>
+    <a href="https://www.metaspoloit.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Metasploit_Framework_Logo.png/800px-Metasploit_Framework_Logo.png" alt="metasploit" width="40" height="40"/> 
+    </a>
+    <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nmap_logo.svg/1280px-Nmap_logo.svg.png" alt="nmap" width="40" height="40"/> 
+    </a>
+    <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Kali_Linux_Logo.png" alt="kali" width="40" height="40"/> 
+    </a>
+    <a href="https://www.owasp.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.owasp.org/images/8/8c/Owasp_logo.png" alt="owasp" width="40" height="40"/> 
+    </a>
+    <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cloudflare_logo.svg/1280px-Cloudflare_logo.svg.png" alt="cloudflare" width="40" height="40"/> 
+    </a>
+    <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Splunk_Logo.png/640px-Splunk_Logo.png" alt="splunk" width="40" height="40"/> 
+    </a>
+    <a href="https://www.snort.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.snort.org/assets/img/snort-logo.svg" alt="snort" width="40" height="40"/> 
+    </a>
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trust-ayeni&show_icons=true&locale=en&layout=compact" alt="trust-ayeni" /></p>
 
