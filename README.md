@@ -42,25 +42,25 @@
         <img src="https://www.vectorlogo.zone/logos/torproject/torproject-ar21.svg" alt="tor" width="40" height="40"/> 
     </a>
     <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Metasploit_Logo.png" alt="metasploit" width="40" height="40"/> 
+        <img src="https://img.icons8.com/?size=100&id=97AFS4JiW8vx&format=png&color=000000" alt="metasploit" width="40" height="40"/> 
     </a>
     <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Nmap_logo.svg" alt="nmap" width="40" height="40"/> 
+        <img src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" alt="nmap" width="40" height="40"/> 
     </a>
     <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Kali_Linux_Logo.png" alt="kali" width="40" height="40"/> 
+        <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" alt="kali" width="40" height="40"/> 
     </a>
-    <a href="https://owasp.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.owasp.org/images/8/8c/Owasp_logo.png" alt="owasp" width="40" height="40"/> 
+    <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/?size=100&id=41078&format=png&color=000000" alt="owasp" width="40" height="40"/> 
     </a>
     <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cloudflare_logo.svg" alt="cloudflare" width="40" height="40"/> 
+        <img src="https://img.icons8.com/?size=100&id=13682&format=png&color=000000" alt="cloudflare" width="40" height="40"/> 
     </a>
-    <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Splunk_Logo.png" alt="splunk" width="40" height="40"/> 
+    <a href="https://www.kali.org/tools/hydra/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/?size=100&id=jPY1VA4HwNPQ&format=png&color=000000" alt="splunk" width="40" height="40"/> 
     </a>
-    <a href="https://www.snort.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.snort.org/images/logos/snort_logo.png" alt="snort" width="40" height="40"/> 
+    <a href="https://www.wireshark.org/download.html" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000" alt="snort" width="40" height="40"/> 
     </a>
 </p>
 
