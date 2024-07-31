@@ -41,26 +41,26 @@
     <a href="https://www.torproject.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/torproject/torproject-ar21.svg" alt="tor" width="40" height="40"/> 
     </a>
-    <a href="https://www.metaspoloit.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Metasploit_Framework_Logo.png/800px-Metasploit_Framework_Logo.png" alt="metasploit" width="40" height="40"/> 
+    <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Metasploit_Logo.png" alt="metasploit" width="40" height="40"/> 
     </a>
     <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nmap_logo.svg/1280px-Nmap_logo.svg.png" alt="nmap" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Nmap_logo.svg" alt="nmap" width="40" height="40"/> 
     </a>
     <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Kali_Linux_Logo.png" alt="kali" width="40" height="40"/> 
     </a>
-    <a href="https://www.owasp.org/" target="_blank" rel="noreferrer"> 
+    <a href="https://owasp.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.owasp.org/images/8/8c/Owasp_logo.png" alt="owasp" width="40" height="40"/> 
     </a>
     <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cloudflare_logo.svg/1280px-Cloudflare_logo.svg.png" alt="cloudflare" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cloudflare_logo.svg" alt="cloudflare" width="40" height="40"/> 
     </a>
     <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Splunk_Logo.png/640px-Splunk_Logo.png" alt="splunk" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Splunk_Logo.png" alt="splunk" width="40" height="40"/> 
     </a>
     <a href="https://www.snort.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.snort.org/assets/img/snort-logo.svg" alt="snort" width="40" height="40"/> 
+        <img src="https://www.snort.org/images/logos/snort_logo.png" alt="snort" width="40" height="40"/> 
     </a>
 </p>
 
