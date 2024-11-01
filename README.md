@@ -1,6 +1,6 @@
 <h1 align="center">Darkstar 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=Cyber+Analyst+by+Day;Hacker+at+Night;Turning+Complexity+into+Simplicity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=Cyber+Analyst+by+Day;Greyhat+hacker+at+Night;Turning+Complexity+into+Simplicity)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trust-ayeni&label=Profile%20views&color=0e75b6&style=flat" alt="trust-ayeni" /> </p>
 
