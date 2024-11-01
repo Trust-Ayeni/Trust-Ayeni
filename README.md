@@ -1,4 +1,4 @@
-<h1 align="center">Hey  👋, I'm Darkstar</h1>
+<h1 align="center">Darkstar 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=Cyber+Analyst+by+Day;Hacker+at+Night;Turning+Complexity+into+Simplicity)](https://git.io/typing-svg)
 
@@ -10,7 +10,7 @@
 - 📫 Mail at trust.ayeniolamilekan@gmail.com
  
  
- Scan to view my webpage that tells you more about myself
+ Scan to view my webpage that tells you more about me
 ![](https://user-images.githubusercontent.com/96830808/215877523-da8d76cb-bb03-4c05-bbd1-70318636461a.png)
 
 - 📄 Know about my experiences [here](oops)
