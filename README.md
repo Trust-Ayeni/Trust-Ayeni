@@ -6,16 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trust-ayeni" alt="trust-ayeni" /></a> </p>
 
-
-- 📫 Mail at trust.ayeniolamilekan@gmail.com
- 
- 
- Scan to view my webpage that tells you more about me
-![](https://user-images.githubusercontent.com/96830808/215877523-da8d76cb-bb03-4c05-bbd1-70318636461a.png)
-
-- 📄 Know about my experiences [here](oops)
-
-
 <h3 align="left">Connect with me here:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/trustayeni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/trustayeni/" height="30" width="40" /></a>
